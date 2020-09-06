@@ -321,7 +321,7 @@ button {
 }
 .article-body > p a,
 .article-body > ul a {
-    border-bottom: 1px solid rgb(153, 153, 153);
+    border-bottom: transparent;
     font-weight: normal;
     transition: color 0.2s ease-out 0s;
 }
